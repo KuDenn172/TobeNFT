@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>https://drive.google.com/u/0/uc?id=16an1wPxbG60niQPGMXt1Kx-ylv97p2no&export=download</key>
+	<key>https://github.com/KuDenn172/TobeNFT/blob/main/utils/test/ToEarnNOW.ipa?raw=true</key>
 	<array>
 		<dict>
 			<key>architectures</key>
@@ -22,7 +22,7 @@
 				<key>type</key>
 				<string>Cloud Managed Apple Distribution</string>
 				 <key>url</key>
-          		 <string>https://drive.google.com/u/0/uc?id=16an1wPxbG60niQPGMXt1Kx-ylv97p2no&export=download</string>
+          		 <string>https://github.com/KuDenn172/TobeNFT/blob/main/utils/test/ToEarnNOW.ipa?raw=true</string>
 			</dict>
 			<key>entitlements</key>
 			<dict>
