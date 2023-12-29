@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>https://drive.google.com/u/0/uc?id=16an1wPxbG60niQPGMXt1Kx-ylv97p2no&export=download</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<false/>
+			<key>buildNumber</key>
+			<string>145</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>D027C69133F5513823BF1080F20F3270BDF88CB1</string>
+				<key>dateExpires</key>
+				<string>29/03/2024</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+				 <key>url</key>
+          		 <string>https://drive.google.com/u/0/uc?id=16an1wPxbG60niQPGMXt1Kx-ylv97p2no&export=download</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>VQ78CQN2D8.com.toearnnow.app</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>VQ78CQN2D8</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>ToEarnNOW.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b0476a8b-ff85-4a56-ada5-65f71104ad1c</string>
+				<key>dateExpires</key>
+				<string>29/03/2024</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.toearnnow.app</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>VQ78CQN2D8</string>
+				<key>name</key>
+				<string>ToEarnNow, LLC</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
